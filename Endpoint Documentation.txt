@@ -1,0 +1,7 @@
+Endpoints
+
+/api/users/register: POST endpoint for user registration.
+
+/api/users/login: POST endpoint for user login.
+
+/api/users/current: GET endpoint to retrieve user profile data (protected).
